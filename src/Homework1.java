@@ -1,7 +1,7 @@
 import java.math.BigInteger;
 import java.util.Arrays;
 
-public class homework1 {
+public class Homework1 {
 
     public static void main(String[] args) {
         // тут можете тестировать ваш код
